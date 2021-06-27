@@ -3,6 +3,8 @@
 <img src="https://badges.pufler.dev/years/Outsiders17711/?style=for-the-badge&logo=github" alt="https://github.com/Outsiders17711" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://badges.pufler.dev/repos/Outsiders17711/?style=for-the-badge&logo=github" alt="https://github.com/Outsiders17711" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://badges.pufler.dev/commits/all/Outsiders17711?style=for-the-badge&logo=github" alt="https://github.com/Outsiders17711" />
 </p>
 
 
