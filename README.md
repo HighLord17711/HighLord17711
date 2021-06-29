@@ -61,4 +61,9 @@ I'm a highly resourceful mechanical engineer with over three years of industry e
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Outsiders17711&l&hide=shell,css,javascript,smarty,ruby,makefile,dockerfile&theme=dracula&show_icons=true" />
 </a>
 </div>
+
+<hr>
+
+[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Outsiders17711&theme=github)](https://github.com/Outsiders17711)
+
 <hr>
