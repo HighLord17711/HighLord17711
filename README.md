@@ -13,7 +13,7 @@
 
 I'm a highly resourceful mechanical engineer with over three years of industry experience in construction and telecommunications. I'm currently doing my masters in Robotics, Control and Smart Systems at the American University in Cairo.
 
-**You can check out my personal [![](https://img.shields.io/static/v1?label=GitHub%20Pages&message=Blog&labelColor=2f363d&color=blue&style=for-the-badge&logo=github)](https://outsiders17711.github.io/Mein.Platz/) where I detail my experiences and development with `Machine Learning`, `Computer Vision` and `Gesture Recognition` as I work on my masters.**
+**You can check out my personal [![](https://img.shields.io/static/v1?label=GitHub%20Pages&message=Blog&labelColor=2f363d&color=blue&style=flat&logo=github)](https://outsiders17711.github.io/Mein.Platz/) where I detail my experiences and development with `Machine Learning`, `Computer Vision` and `Gesture Recognition` as I work on my masters.**
 
 <hr>
 
