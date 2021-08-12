@@ -13,11 +13,11 @@
 
 I'm a highly resourceful mechanical engineer with over three years of industry experience in construction and telecommunications. I'm currently doing my masters in Robotics, Control and Smart Systems at the American University in Cairo.
 
-**You can check out my personal [![](https://img.shields.io/static/v1?label=GitHub%20Pages&message=Blog&labelColor=2f363d&color=blue&style=flat&logo=github)](https://outsiders17711.github.io/Mein.Platz/) where I detail my experiences and development with `Machine Learning`, `Computer Vision` and `Gesture Recognition` as I work on my masters.**
+**You can check out my personal [![](https://img.shields.io/static/v1?label=GitHub%20Pages&message=Blog&labelColor=2f363d&color=blue&style=flat&logo=github)](https://outsiders17711.github.io/Mein.Platz/) where I detail my experiences and development with `Machine Learning`, `Computer Vision` and `Gesture Recognition` as I work on my masters. You can also find me on [![](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=black)](https://www.kaggle.com/outsiders17711).**
 
 <hr>
 
-<h2 align="left"> 🔭 Tools of Trade</h2>
+<h2 align="left"> 🔭 Software Tools</h2>
 
 <h3 align="center"> 🛠 Programming</h3>
 <p align="center">
