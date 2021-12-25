@@ -11,7 +11,7 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Umar
 
 
-I am Oluwaleke Umar Yusuf, a Nigerian currently residing in Egypt. I obtained my B.Sc. in Mechanical Engineering at the University of Ibadan, Nigeria. My post-degree professional career was in the Nigerian construction and telecommunications industries. I am currently studying Robotics, Control and Smart Systems at the American University In Cairo.
+**I am Oluwaleke Umar Yusuf, a Nigerian currently residing in Egypt. I obtained my B.Sc. in Mechanical Engineering at the University of Ibadan, Nigeria. My post-degree professional career was in the Nigerian construction and telecommunications industries. I am currently studying Robotics, Control and Smart Systems at the American University In Cairo.**
 
 **You can check out my personal [![](https://img.shields.io/static/v1?label=GitHub%20Pages&message=Blog&labelColor=2f363d&color=blue&style=flat&logo=github)](https://outsiders17711.github.io/Mein.Platz/) where I detail my experiences and development with `Machine Learning`, `Computer Vision` and `Gesture Recognition` as I work on my masters. You can also find me on [![](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=black)](https://www.kaggle.com/outsiders17711).**
 
